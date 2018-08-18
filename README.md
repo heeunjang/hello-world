@@ -1,4 +1,5 @@
 # hello-world
 practice
 
-This is the master file 
+
+Puhaha I'm here in Seattle!
